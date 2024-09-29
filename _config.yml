@@ -30,7 +30,7 @@ mastodon_username: mike@duckchat.me
 
 
 # Build settings
-theme: minima
+theme: linkhub-jekyll-theme
 plugins:
   - jekyll-feed
 
