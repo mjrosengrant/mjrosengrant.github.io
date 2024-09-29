@@ -33,8 +33,8 @@ mastodon_username: mike@duckchat.me
 theme: linkhub-jekyll-theme
 
 # Site Configuration
-name: Linkhub  # Name of your website
-tagline: Links  # Set your preferred page title
+name: Mike Rosengrant  # Name of your website
+tagline: Software Engineer  # Set your preferred page title
 description: A free, open-source Jekyll link-in-bio theme.  # Also used as a meta description
 favicon:
   path: https://i.ibb.co/SBRmBmt/favicon.png # Path / URL to the favicon of your website (e.g., 'assets/images/favicon.png')
